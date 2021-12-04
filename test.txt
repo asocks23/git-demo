@@ -1,2 +1,6 @@
 Hello Git!!! 22222222222222
+<<<<<<< HEAD
 Master test !!!!
+=======
+Hot-fix test!!!
+>>>>>>> hot-fix
